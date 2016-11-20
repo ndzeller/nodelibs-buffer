@@ -5,11 +5,11 @@
   "map": {
     "./buffer.js": {
       "node": "@node/buffer",
-      "browser": "buffer-browserify"
+      "browser": "buffer"
     }
   },
   "dependencies": {
-    "buffer-browserify": "^4.0.0"
+    "buffer": "^4.0.0"
   },
   "jspmNodeConversion": false
 }
