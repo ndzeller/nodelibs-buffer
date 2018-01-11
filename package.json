@@ -1,5 +1,5 @@
 {
-  "main": "buffer.js",
+  "main": "./buffer.js",
   "name": "jspm-nodelibs-buffer",
   "version": "0.2.3",
   "map": {
